@@ -23,6 +23,6 @@
 <a href = "https://steamcommunity.com/id/zzwqnj/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marlonc0dex/marlonc0dex/blob/output/github-contribution-grid-snake.svg)
  
 </div>
