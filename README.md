@@ -1,8 +1,8 @@
 ## Hellow, welcome to my profile!
 <div align="center">
   <a href="https://github.com/marlon0dex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonc0dex&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonc0dex&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonc0dex&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonc0dex&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
