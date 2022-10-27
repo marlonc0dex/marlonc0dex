@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonc0dex&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonc0dex&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 <img height="180em" src=("https://github-readme-streak-stats.herokuapp.com/?user=marlonc0dex&theme=dark&hide_border=false"/>
-   </div>
+   
 
 
 ## Tech Stack:
