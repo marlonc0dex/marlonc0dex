@@ -23,7 +23,7 @@
   <a href = "mailto:marloncardsilva1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-## GitHub Trophie
+## GitHub Trophies
  
 ![](https://github-profile-trophy.vercel.app/?username=marlonc0dex&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   ![Snake animation](https://github.com/marlonc0dex/marlonc0dex/blob/output/github-contribution-grid-snake.svg)
